@@ -13,11 +13,10 @@ It provides a simple interface for entering queries, displays results dynamicall
 
 ## 📂 Project Structure#
 daniel-search-engine/
-│
-├── index.html        # Main HTML page
-├── style.css         # Styling for the search engine
-├── script.js         # Core search logic
-└── README.md         # Project documentation
+├── index.html       # Main HTML page
+├── style.css        # Styling for the search engine
+├── script.js        # Core search logic
+└── README.md        # Project documentation
 ---
 
 ## 🖥️ Usage
